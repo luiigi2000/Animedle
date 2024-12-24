@@ -5,7 +5,8 @@ A fun **Wordle-Type** game where your goal is to guess the anime within 5 tries 
 ## Features
 - **Two Sections**: Picture guessing and OP (opening) guessing.
 - **Score Based on Attempts**: Final score depends on how many tries it takes you to guess all 10 animes.
-- **Animated Feedback**: The image becomes clearer with each incorrect guess in the Picture Guessing section.
+- **Animated Feedback**: The image becomes clearer with each incorrect guess.
+- **Animated Feedback**: The audio increases in length with each incorrect guess.
 - **Guessing Rules**: All guesses must be lowercase and without spaces, using the full name of the anime.
 
 ## Usage
