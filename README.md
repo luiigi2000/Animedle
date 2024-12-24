@@ -11,7 +11,7 @@ A fun **Wordle-Type** game where your goal is to guess the anime within 5 tries 
 ## Usage
 1. Use the input at the top to guess.
 2. The audio has controls so use them if you need to play it back.
-3. If you don't know any animes and want to test out the functionality of the game, find the answers in the `Credits` file within the `DONTREAD(ANSWERS)` folder.
+3. If you don't know any animes and want to test out the functionality of the game; find the answers in the `Credits` file within the `DONTREAD(ANSWERS)` folder.
 
 ---
 
