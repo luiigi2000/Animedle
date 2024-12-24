@@ -1,0 +1,32 @@
+html, body{
+  background-color: rgb(12, 146, 146);
+  background-size: cover;
+  height: 100%;
+  text-align: center;
+}
+
+#result{
+  width: 25%;
+  height: 50%;
+  border-radius: 100%;
+  border-style:solid;
+}
+
+input{
+  border-width: 25px;
+}
+
+
+img{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+audio{
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
